@@ -1,0 +1,7 @@
+id,name,age,country,salary
+1,Alice,29,Kenya,70000
+2,Bob,34,Uganda,85000
+3,Charlie,,Kenya,60000
+4,Diana,41,Tanzania,95000
+5,Eric,23,Kenya,40000
+
